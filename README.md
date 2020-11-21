@@ -16,4 +16,7 @@ REquirements:
   
   keras
   
-  
+  To know more
+
+
+   https://drive.google.com/folderview?id=1YVFOS-W8jiL31Jx6AnqrNHIqTtL5P-Xw
